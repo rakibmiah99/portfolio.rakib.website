@@ -1,0 +1,17 @@
+export const personalData = {
+  name: "Rakib",
+  profile: '/profile.jpg',
+  designation: "Software Engineer",
+  description: "I am a Full-Stack Software Engineer with strong expertise in Laravel, React, and Inertia.js. I build fast, scalable, and secure web applications — from backend architecture to modern UI. My experience includes eCommerce, SaaS platforms, CRMs, and enterprise-level systems. I focus on clean code, performance, and smooth deployment workflows using Docker, CI/CD, Tailwind, DaisyUI, and modern DevOps practices. Currently, I’m building SaaS-ready solutions and helping businesses scale with efficient, modern engineering.",
+  email: 'rakibmiah120199@gmail.com',
+  phone: '+8801732691729',
+  address: 'Jigatola, Danmondi, Dhaka, Bangladesh ',
+  github: 'https://github.com/rakibmiah99',
+  facebook: 'https://www.facebook.com/rakibmiah99/',
+  linkedIn: 'https://www.linkedin.com/in/rakibmiah99/',
+  twitter: 'https://twitter.com/rakibmiah99',
+  stackOverflow: '#',
+  leetcode: "https://leetcode.com/rakibmiah99/",
+  devUsername: "rakibmiah99",
+  resume: "/Rakib_Miah_Resume.pdf",
+}
